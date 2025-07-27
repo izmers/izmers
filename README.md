@@ -4,7 +4,7 @@ Hi 👋 My name is Remzi Cetin
 Full-Stack Developer
 --------------------
 
-I am a full-stack developer passionate about building useful and intuitive apps. My background includes hands-on experience in mobile app development, machine learning, and scalable cloud systems. I hold a Computer Science degree from the University of Innsbruck and am currently pursuing my Master’s in Software Engineering."
+I am a full-stack developer passionate about building useful and intuitive apps. My background includes hands-on experience in mobile app development, machine learning, and scalable cloud systems. I hold a Computer Science degree from the University of Innsbruck and am currently pursuing my Master’s in Software Engineering.
 
 * 🌍  I'm based in Kufstein
 * 🖥️  See my portfolio at [MyPortfolio](http://izmers.github.io/portfolio/)
